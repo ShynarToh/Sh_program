@@ -1,0 +1,14 @@
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.AssemblyInfoInputs.cache
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.AssemblyInfo.cs
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.csproj.CoreCompileInputs.cache
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\bin\Debug\net7.0\exampl006_zadach.exe
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\bin\Debug\net7.0\exampl006_zadach.deps.json
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\bin\Debug\net7.0\exampl006_zadach.runtimeconfig.json
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\bin\Debug\net7.0\exampl006_zadach.dll
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\bin\Debug\net7.0\exampl006_zadach.pdb
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.dll
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\refint\exampl006_zadach.dll
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.pdb
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\exampl006_zadach.genruntimeconfig.cache
+C:\Users\elips\OneDrive\Рабочий стол\GITT\Examply\exampl006_zadach\obj\Debug\net7.0\ref\exampl006_zadach.dll
